@@ -71,3 +71,14 @@ pre {
   background-color: #e4e4e4;
   color: black;
 }
+
+/* Styles for "hello from the future" text */
+.future-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2em;
+  color: red;
+  text-shadow: 0 0 10px red, 0 0 20px red, 0 0 30px red, 0 0 40px red, 0 0 50px red, 0 0 60px red;
+}
