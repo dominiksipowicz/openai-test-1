@@ -23,6 +23,7 @@ const Home = () => {
           </a>
         ))}
       </div>
+      <div className="future-text">hello from the future</div>
     </main>
   );
 };
